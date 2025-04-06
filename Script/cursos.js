@@ -3,7 +3,7 @@ const cursos = [
     {
         nome: "Construção Civil",
         descricao: "A construção civil é o setor responsável por projetar, construir e manter edificações e infraestruturas, como casas, prédios, estradas e pontes, sendo essencial para o desenvolvimento urbano e econômico.",
-        imagem: "Images/C.Civil/construcao-de-casas-principais-erros.WEBP",
+        imagem: "Images/C.Civil/construcao-de-casas-principais-erros.webp",
         link: "construcao_civil.html",
     },
     {
